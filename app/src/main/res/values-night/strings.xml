@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="retrieve">retrieve</string>
+    <string name="edit">edit</string>
+    <string name="insert">insert</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="content">Content:</string>
+    <string name="id">ID:</string>
+</resources>
